@@ -28,3 +28,5 @@ h1,h2 {
 <h1>Coming this fall to <%= @network %>:</h1>
 
 <h2><%= @title %></h2>
+
+<a href="http://github.com/Yuffster/hacker_shows">Fork on GitHub</a>
